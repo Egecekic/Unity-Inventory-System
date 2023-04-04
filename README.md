@@ -7,6 +7,8 @@ Unity Package Manager dan InputSystem indirmeniz gerekiyor
 [Inventory File](https://github.com/Egecekic/Unity-Inventory-System/tree/main/Inventory)
 -------------------
 [offset](https://github.com/Egecekic/Unity-Inventory-System/blob/main/Inventory/Inventory%20Holder.cs) oyuncunun hotbarının uzunluğunu belirlemek için kullanılıyor.
+- Boş bir canvas ögesi olusturup kaç adet slottan olusacaksa olusacak prefapları chield olarak ekleyin
+- Boş ögeyi fotoğraftaki gibi dolduru.
 
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/45740020/229564434-49d75e19-ce33-4e5e-8ef4-1b94949e3381.png">
@@ -34,8 +36,8 @@ Eğer save load sistemini kullanıyorsanız database scriptinden id ataması yap
 -------------------
 
 ### DynamicInventorySystem 
--Sistemin bu seklinde sırt çantasını görmek için kullanılıyor(farklı seyleri adepte etmeniz gerek), sırt çantasını görmek için boş bir canvan ögesi oluşturup altaki görüntüde ki gibi doldurun.
--Oyuncunun backpaci ve sandık gibi farklı envanter sistemi için kullanılacak
+- Sistemin bu seklinde sırt çantasını görmek için kullanılıyor(farklı seyleri adepte etmeniz gerek), sırt çantasını görmek için boş bir canvan ögesi oluşturup altaki görüntüde ki gibi doldurun.
+- Oyuncunun backpaci ve sandık gibi farklı envanter sistemi için kullanılacak
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/45740020/229568607-b133a3cf-6b53-41c2-bf5e-2ee71fef3987.png">
 </p>
