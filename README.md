@@ -32,7 +32,9 @@ Eğer save load sistemini kullanıyorsanız database scriptinden id ataması yap
 
 [UI File](https://github.com/Egecekic/Unity-Inventory-System/tree/main/UI)
 -------------------
+
 ### DynamicInventorySystem 
+-Sistemin bu seklinde sırt çantasını görmek için kullanılıyor(farklı seyleri adepte etmeniz gerek), sırt çantasını görmek için boş bir canvan ögesi oluşturup altaki görüntüde ki gibi doldurun.
 -Oyuncunun backpaci ve sandık gibi farklı envanter sistemi için kullanılacak
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/45740020/229568607-b133a3cf-6b53-41c2-bf5e-2ee71fef3987.png">
