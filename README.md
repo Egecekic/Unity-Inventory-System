@@ -12,8 +12,9 @@ Unity Package Manager dan InputSystem indirmeniz gerekiyor
 
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/45740020/229564434-49d75e19-ce33-4e5e-8ef4-1b94949e3381.png">
+  <br>
+  (Örnek Hotbar)
 </p>
-
 
 [Iteam File](https://github.com/Egecekic/Unity-Inventory-System/tree/main/Iteam).
 -------------------
